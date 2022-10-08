@@ -1,0 +1,12 @@
+export const color="#000"
+export const colorline="#d8d9dd"
+export const white="#fff"
+export const colorlinear=["#9abbe9",'#CDF6FF',"#E6F4F1","#F6F6F6","#fff"]
+export const colorbutton="#6E21FD"
+export const sizearrowicon=20
+export const fontfamilytextheader="Amiri-BoldItalic"
+export const buttonradius=10
+export const colorblack="#000"
+export const backgroundColor="#fff"
+export const coloricon="#000"
+export const day_1_color="#005D7A"
